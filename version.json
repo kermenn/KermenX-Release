@@ -1,0 +1,10 @@
+﻿{
+  "version_code": 200,
+  "version_name": "v2.0.0",
+  "release_date": "2026-10-29",
+  "min_supported_version": "v2.0.0",
+  "download_url": "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
+  "sha256": "3c1d208c199bd6365eeeee1961604280de92c258237ac1868f769050ce49abf8",
+  "changelog": "- Pembaruan antarmuka dropdown sub-modul Report & Macro SAP\n- Integrasi CommunityToolkit.Mvvm v8.4.2\n- Penambahan sistem KermenX Auto-Updater mandiri",
+  "size_mb": 61.89
+}

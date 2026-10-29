@@ -1,10 +1,10 @@
 ﻿{
-  "version_code": 200,
-  "version_name": "v2.0.0",
-  "release_date": "2026-10-29",
-  "min_supported_version": "v2.0.0",
-  "download_url": "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
-  "sha256": "3c1d208c199bd6365eeeee1961604280de92c258237ac1868f769050ce49abf8",
-  "changelog": "- Pembaruan antarmuka dropdown sub-modul Report & Macro SAP\n- Integrasi CommunityToolkit.Mvvm v8.4.2\n- Penambahan sistem KermenX Auto-Updater mandiri",
-  "size_mb": 61.89
+    "size_mb":  61.7,
+    "version_code":  201,
+    "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
+    "min_supported_version":  "v2.0.0",
+    "release_date":  "2026-10-29",
+    "version_name":  "v2.0.1",
+    "changelog":  "- Penambahan fitur pelaporan bug via Cloud Supabase \u0026 WhatsApp\n- Penambahan tombol Lapor Bug di Titlebar dan Console Status Bar\n- Perbaikan responsivitas interaksi tombol Titlebar (WindowChrome)\n- Penyempurnaan indikator diagnostik real-time Python Engine\n- Isolasi modular dua kamar: KermenX\\app dan KermenX\\engine",
+    "sha256":  "759b0c7e4da0a27d657afd94d681d06bf1b92d8531314d1a3ac6d59fd653f226"
 }

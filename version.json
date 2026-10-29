@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  61.88,
-    "version_code":  203,
+    "version_code":  204,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-10-29",
-    "version_name":  "v2.0.3",
-    "changelog":  "- Penambahan kolom ValType (default: RPRODUCT) di Batch MIGO Transfer (TP-344) dan integrasi BWTAR SAP\n- Tampilan tabel Batch MIGO Putih (White theme) dengan teks kontras tinggi, border halus, dan seleksi jelas\n- Fitur Edit per baris (double click atau tombol ✏️) langsung mengisi kolom input dengan tombol Simpan Perubahan\n- Fitur Hapus per baris (tombol 🗑️ pada baris, tombol Hapus Terpilih, klik kanan Context Menu, dan tombol Del)",
-    "sha256":  "a376698dee43b02324e3bf2a469d1ccf7cd6ff9e4d73daadeae25357c9761aa6"
+    "version_name":  "v2.0.4",
+    "changelog":  "- Teks tabel Batch MIGO sekarang 100% Hitam Pekat (#000000) kontras tinggi dan sangat jelas terbaca\n- Revisi struktur ValType sama seperti SLOC: memiliki From ValType (RPRODUCT) dan To ValType (PXPRODUCT)\n- Baris Quick Input Bar ringkas tanpa input ValType (cukup Part Number dan Qty seperti SLOC)\n- Integrasi field SAP BWTAR (From ValType) dan UMBAR (To ValType)",
+    "sha256":  "eadd0ab92a54292121bd52a266a354ddf58fd21751661b793bba9aeee7151f1c"
 }

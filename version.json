@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  61.7,
-    "version_code":  201,
+    "size_mb":  61.87,
+    "version_code":  202,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-10-29",
-    "version_name":  "v2.0.1",
-    "changelog":  "- Penambahan fitur pelaporan bug via Cloud Supabase \u0026 WhatsApp\n- Penambahan tombol Lapor Bug di Titlebar dan Console Status Bar\n- Perbaikan responsivitas interaksi tombol Titlebar (WindowChrome)\n- Penyempurnaan indikator diagnostik real-time Python Engine\n- Isolasi modular dua kamar: KermenX\\app dan KermenX\\engine",
-    "sha256":  "759b0c7e4da0a27d657afd94d681d06bf1b92d8531314d1a3ac6d59fd653f226"
+    "version_name":  "v2.0.2",
+    "changelog":  "- Penambahan dropdown mode operasi MIGO: TP - 344 dan Cancellation (A03)\n- Penyesuaian otomatis tampilan form \u0026 tabel saat beralih mode MIGO\n- Penyempurnaan macro TP - 344 dengan Action A08, Item OK, dan valuasi PXPRODUCT\n- Macro baru Cancellation (A03) untuk pembatalan batch Material Document\n- Dukungan paste daftar Material Document langsung dari Excel",
+    "sha256":  "d8fe2b4caf95cb9000521be3cb02df5c89721690b1879ab4560e06016416f15e"
 }

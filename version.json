@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  61.88,
-    "version_code":  204,
+    "version_code":  205,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-10-29",
-    "version_name":  "v2.0.4",
-    "changelog":  "- Teks tabel Batch MIGO sekarang 100% Hitam Pekat (#000000) kontras tinggi dan sangat jelas terbaca\n- Revisi struktur ValType sama seperti SLOC: memiliki From ValType (RPRODUCT) dan To ValType (PXPRODUCT)\n- Baris Quick Input Bar ringkas tanpa input ValType (cukup Part Number dan Qty seperti SLOC)\n- Integrasi field SAP BWTAR (From ValType) dan UMBAR (To ValType)",
-    "sha256":  "eadd0ab92a54292121bd52a266a354ddf58fd21751661b793bba9aeee7151f1c"
+    "version_name":  "v2.0.5",
+    "changelog":  "- Memperbaiki warna teks header tabel Batch MIGO menjadi Hitam Pekat (#000000) Bold\n- Mengunci GridView.ColumnHeaderContainerStyle dengan template eksplisit berlatar abu-abu halus (#F1F5F9) dan border pemisah",
+    "sha256":  "07e6856c719fe15efa358516b162735f6fd37b74fc4c7b70d50f1eb158b6ca92"
 }

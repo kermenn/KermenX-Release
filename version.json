@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  61.87,
-    "version_code":  202,
+    "size_mb":  61.88,
+    "version_code":  203,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-10-29",
-    "version_name":  "v2.0.2",
-    "changelog":  "- Penambahan dropdown mode operasi MIGO: TP - 344 dan Cancellation (A03)\n- Penyesuaian otomatis tampilan form \u0026 tabel saat beralih mode MIGO\n- Penyempurnaan macro TP - 344 dengan Action A08, Item OK, dan valuasi PXPRODUCT\n- Macro baru Cancellation (A03) untuk pembatalan batch Material Document\n- Dukungan paste daftar Material Document langsung dari Excel",
-    "sha256":  "d8fe2b4caf95cb9000521be3cb02df5c89721690b1879ab4560e06016416f15e"
+    "version_name":  "v2.0.3",
+    "changelog":  "- Penambahan kolom ValType (default: RPRODUCT) di Batch MIGO Transfer (TP-344) dan integrasi BWTAR SAP\n- Tampilan tabel Batch MIGO Putih (White theme) dengan teks kontras tinggi, border halus, dan seleksi jelas\n- Fitur Edit per baris (double click atau tombol ✏️) langsung mengisi kolom input dengan tombol Simpan Perubahan\n- Fitur Hapus per baris (tombol 🗑️ pada baris, tombol Hapus Terpilih, klik kanan Context Menu, dan tombol Del)",
+    "sha256":  "a376698dee43b02324e3bf2a469d1ccf7cd6ff9e4d73daadeae25357c9761aa6"
 }

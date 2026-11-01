@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  61.99,
-    "version_code":  206,
+    "version_code":  207,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-01",
-    "version_name":  "v2.0.6",
-    "changelog":  "Pembaruan tipografi \u0026 ikon gaya RyTuneX (Segoe Fluent Icons), label versi dinamis v2.0.6, fitur Change PO terpisah, Replace PN batch checker, dan penyederhanaan antarmuka enterprise.",
-    "sha256":  "5a37653deddfaa823c2c09986dd53c45b45cddb241299aada5554af1ffb99fc6"
+    "version_name":  "v2.0.7",
+    "changelog":  "Refaktorisasi arsitektur MainWindow ke Partial Classes modular, pembersihan berkas duplikat, peningkatan stabilitas performa, dan sinkronisasi dokumentasi AI.",
+    "sha256":  "5cbe6a706f3624f28513b94631a305de7962e457cf0a717089fb74628175b439"
 }

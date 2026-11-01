@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62,
-    "version_code":  207,
+    "size_mb":  62.01,
+    "version_code":  208,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-01",
-    "version_name":  "v2.0.7",
-    "changelog":  "Rebranding resmi KermenX (KermenX.exe \u0026 KermenX.csproj), sertifikasi tanda tangan digital resmi Authenticode (Penerbit: Yusril Irgi, Organisasi: KermenX), pemisahan otomatis akun SAP CK untuk Report OTIF, dan kepatuhan transparansi keamanan enterprise.",
-    "sha256":  "197f90aa799ca5eb6696aa8c3a62bd3746fcd4326a32f154b89d51756842ecf8"
+    "version_name":  "v2.0.8",
+    "changelog":  "Penambahan modul Billing Supporting Document (/NZVBL_SUPP_DOC) dengan fitur Auto-Save, pemisahan akun SAP CK eksklusif untuk Report OTIF, dan rebranding resmi KermenX.",
+    "sha256":  "c5efb523fab52e87b507994fec328661254650eaaebf6b7a1743c1cb5ebbbcb3"
 }

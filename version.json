@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  61.88,
-    "version_code":  205,
+    "size_mb":  61.99,
+    "version_code":  206,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-10-29",
-    "version_name":  "v2.0.5",
-    "changelog":  "- Memperbaiki warna teks header tabel Batch MIGO menjadi Hitam Pekat (#000000) Bold\n- Mengunci GridView.ColumnHeaderContainerStyle dengan template eksplisit berlatar abu-abu halus (#F1F5F9) dan border pemisah",
-    "sha256":  "07e6856c719fe15efa358516b162735f6fd37b74fc4c7b70d50f1eb158b6ca92"
+    "release_date":  "2026-11-01",
+    "version_name":  "v2.0.6",
+    "changelog":  "Pembaruan tipografi \u0026 ikon gaya RyTuneX (Segoe Fluent Icons), label versi dinamis v2.0.6, fitur Change PO terpisah, Replace PN batch checker, dan penyederhanaan antarmuka enterprise.",
+    "sha256":  "5a37653deddfaa823c2c09986dd53c45b45cddb241299aada5554af1ffb99fc6"
 }

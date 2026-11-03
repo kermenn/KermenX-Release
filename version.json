@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.04,
+    "size_mb":  62.03,
     "version_code":  210,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-03",
     "version_name":  "v2.1.0",
-    "changelog":  "Penambahan modul GIT Monitoring (/NZMPU_PO_MONI) terintegrasi pelacakan otomatis CKB Logistics, klasifikasi 3 status tindakan (Need GR Segera, Need Follow Up Branch, Need Follow Up CKB), dan laporan Excel eksekutif.",
-    "sha256":  "84ba170ec81af20239a539a04ca8f44ecb5af44c32170c8b9a128400a863d707"
+    "changelog":  "Fix: Penambahan item GIT Monitoring (/NZMPU_PO_MONI) pada dropdown menu SubNav SAP ECC.",
+    "sha256":  "65b88958c2916401843fcdc443105298bac5a175efc9de25d0c00fd81f06f24b"
 }

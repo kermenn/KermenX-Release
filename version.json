@@ -5,6 +5,6 @@
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-03",
     "version_name":  "v2.1.0",
-    "changelog":  "Penambahan integrasi pengiriman email laporan GIT Monitoring \u0026 CKB Tracking via Microsoft Outlook (Desktop \u0026 Web) dengan template HTML eksekutif operasional bebas kalimat klise.",
-    "sha256":  "adeaca4cb42980b5c2e1baee64d39719a81fe1b0eb691ed57b42606624d12a32"
+    "changelog":  "Fix: Perbaikan layout Grid.Row=2 pada SubViewSAPGIT agar scrollbar vertikal muncul penuh saat konten melebihi tinggi layar.",
+    "sha256":  "7aea3c3fef48722b8f6abbe9ed6c09c869dcf083e61d78fdc60c45d204de596c"
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.03,
+    "size_mb":  62.05,
     "version_code":  210,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-03",
     "version_name":  "v2.1.0",
-    "changelog":  "Fix: Penambahan item GIT Monitoring (/NZMPU_PO_MONI) pada dropdown menu SubNav SAP ECC.",
-    "sha256":  "65b88958c2916401843fcdc443105298bac5a175efc9de25d0c00fd81f06f24b"
+    "changelog":  "Penambahan integrasi pengiriman email laporan GIT Monitoring \u0026 CKB Tracking via Microsoft Outlook (Desktop \u0026 Web) dengan template HTML eksekutif operasional bebas kalimat klise.",
+    "sha256":  "adeaca4cb42980b5c2e1baee64d39719a81fe1b0eb691ed57b42606624d12a32"
 }

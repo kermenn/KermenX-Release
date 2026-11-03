@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.01,
-    "version_code":  209,
+    "size_mb":  62.04,
+    "version_code":  210,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-01",
-    "version_name":  "v2.0.9",
-    "changelog":  "Perbaikan visual antarmuka: Dark ToolTip style kontras tinggi dan perbaikan teks tombol action macro Billing MRKO / PO Normal.",
-    "sha256":  "c382901046b2c61911d8ce2cb477a669e533fff9eaa78a05c786256636229fa1"
+    "release_date":  "2026-11-03",
+    "version_name":  "v2.1.0",
+    "changelog":  "Penambahan modul GIT Monitoring (/NZMPU_PO_MONI) terintegrasi pelacakan otomatis CKB Logistics, klasifikasi 3 status tindakan (Need GR Segera, Need Follow Up Branch, Need Follow Up CKB), dan laporan Excel eksekutif.",
+    "sha256":  "84ba170ec81af20239a539a04ca8f44ecb5af44c32170c8b9a128400a863d707"
 }

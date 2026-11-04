@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  62.05,
-    "version_code":  212,
+    "version_code":  213,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-04",
-    "version_name":  "v2.1.2",
-    "changelog":  "Penyempurnaan mekanisme anti-lock pada in-app auto updater, perbaikan retensi file Windows, dan penambahan integrasi GIT Monitoring SAP /NZMPU_PO_MONI + CKB Logistics",
-    "sha256":  "507f4b9a9ba63a1e77a8deabddab06314b3b994406dc4ab359ed69b54db4a920"
+    "version_name":  "v2.1.3",
+    "changelog":  "Pemisahan modul GIT: penarikan raw data murni di Macro SAP dan pemindahan analisis CKB + email eksekutif ke Report Analysis (ala WO Readiness), perbaikan zero-variance data email.",
+    "sha256":  "f8a44d4f36676f049fca88db891a070977f3229692d2457245f43b919cadac6a"
 }

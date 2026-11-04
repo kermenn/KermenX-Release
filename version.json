@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.05,
-    "version_code":  210,
+    "size_mb":  62.04,
+    "version_code":  211,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-04",
-    "version_name":  "v2.1.0",
-    "changelog":  "UI Update: Tombol Buka Excel dan Kirim Email pada GIT Monitoring kini selalu aktif (Always Visible) dengan auto-detect laporan terbaru.",
-    "sha256":  "c81cc6a32f42d501e79206a54547369be13cca128692b61ba309664263375fe1"
+    "version_name":  "v2.1.1",
+    "changelog":  "Rilis v2.1.1: Pembaruan fitur GIT Monitoring \u0026 Tracking CKB, tombol Kirim Email \u0026 Buka Excel selalu aktif, perbaikan scrollbar vertikal, dan peningkatan keandalan proses update in-app (Anti-lock Retry Loop).",
+    "sha256":  "ea55b1e037cb28acb72379e4bb824861c3f8c7c8de5eb301ab1d56b5bb714157"
 }

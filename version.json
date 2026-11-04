@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.04,
-    "version_code":  211,
+    "size_mb":  62.05,
+    "version_code":  212,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-04",
-    "version_name":  "v2.1.1",
-    "changelog":  "Rilis v2.1.1: Pembaruan fitur GIT Monitoring \u0026 Tracking CKB, tombol Kirim Email \u0026 Buka Excel selalu aktif, perbaikan scrollbar vertikal, dan peningkatan keandalan proses update in-app (Anti-lock Retry Loop).",
-    "sha256":  "ea55b1e037cb28acb72379e4bb824861c3f8c7c8de5eb301ab1d56b5bb714157"
+    "version_name":  "v2.1.2",
+    "changelog":  "Penyempurnaan mekanisme anti-lock pada in-app auto updater, perbaikan retensi file Windows, dan penambahan integrasi GIT Monitoring SAP /NZMPU_PO_MONI + CKB Logistics",
+    "sha256":  "507f4b9a9ba63a1e77a8deabddab06314b3b994406dc4ab359ed69b54db4a920"
 }

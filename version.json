@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.24,
-    "version_code":  214,
+    "size_mb":  62.05,
+    "version_code":  215,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-04",
-    "version_name":  "v2.1.4",
-    "changelog":  "Implementasi KermenXUpdater.exe (Enterprise Pure .NET Binary Updater tanpa .bat), penimpaan file otomatis force-overwrite dan kompatibel penuh dengan keamanan laptop kantor.",
-    "sha256":  "a2ae2d6db2523202944472b08779397d074db551c8cb0cea6b07fc1b13a49aa5"
+    "release_date":  "2026-11-05",
+    "version_name":  "v2.1.5",
+    "changelog":  "Integrasi Auto-Updater langsung ke dalam KermenX.exe (100% Self-Contained, tanpa .bat, tanpa dependensi eksternal, kompatibel penuh dengan laptop kantor).",
+    "sha256":  "d558f0cdf810056dd84893e50c2e7bc3946c5b7357db55d65d15e915d2d67604"
 }

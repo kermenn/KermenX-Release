@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.05,
-    "version_code":  213,
+    "size_mb":  62.24,
+    "version_code":  214,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-04",
-    "version_name":  "v2.1.3",
-    "changelog":  "Pemisahan modul GIT: penarikan raw data murni di Macro SAP dan pemindahan analisis CKB + email eksekutif ke Report Analysis (ala WO Readiness), perbaikan zero-variance data email.",
-    "sha256":  "f8a44d4f36676f049fca88db891a070977f3229692d2457245f43b919cadac6a"
+    "version_name":  "v2.1.4",
+    "changelog":  "Implementasi KermenXUpdater.exe (Enterprise Pure .NET Binary Updater tanpa .bat), penimpaan file otomatis force-overwrite dan kompatibel penuh dengan keamanan laptop kantor.",
+    "sha256":  "a2ae2d6db2523202944472b08779397d074db551c8cb0cea6b07fc1b13a49aa5"
 }

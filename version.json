@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  62.06,
-    "version_code":  220,
+    "version_code":  221,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-05",
-    "version_name":  "v2.2.0",
-    "changelog":  "Perbaikan scraper web CKB: Memaksa koneksi IPv4 (-4) untuk mencegah connection reset pada portal CKB dan memastikan seluruh resi terpetakan dengan benar.",
-    "sha256":  "c586449f94410defb7a703d117e1bf07827134b1ffffc0d90180b493664371ba"
+    "version_name":  "v2.2.1",
+    "changelog":  "Optimalisasi scraper CKB (batch size 15 + auto-fallback) agar seluruh resi terpetakan tanpa timeout, dan perbaikan format email standar WO Readiness (anti white-text).",
+    "sha256":  "0744b278b446845b35f3ad977996e870599d80f260a0bb61343965468b71c08b"
 }

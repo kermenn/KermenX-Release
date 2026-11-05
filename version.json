@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  62.06,
-    "version_code":  219,
+    "version_code":  220,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-05",
-    "version_name":  "v2.1.9",
-    "changelog":  "Perbaikan sheet selector adaptif pada Master Inventory \u0026 Posture file (mencegah KeyError Worksheet Data does not exist pada sinkronisasi AndroHeld).",
-    "sha256":  "b801a5cca85840287be5690ce8d35c6521b4220bbe268ab5f6a85e423acb14c6"
+    "version_name":  "v2.2.0",
+    "changelog":  "Perbaikan scraper web CKB: Memaksa koneksi IPv4 (-4) untuk mencegah connection reset pada portal CKB dan memastikan seluruh resi terpetakan dengan benar.",
+    "sha256":  "c586449f94410defb7a703d117e1bf07827134b1ffffc0d90180b493664371ba"
 }

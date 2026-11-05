@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.05,
-    "version_code":  218,
+    "size_mb":  62.06,
+    "version_code":  219,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-05",
-    "version_name":  "v2.1.8",
-    "changelog":  "Perbaikan akurasi pembacaan KPI chart WO AndroHeld (dukungan variasi label Excel dan kalkulasi mandiri berbasis baris item) serta perbaikan teks log konsol yang meregang dinamis 100% mengikuti tinggi jendela.",
-    "sha256":  "c0105e7839e889e016bd999282911f1dafd65ade63d669724f03c21e99838969"
+    "version_name":  "v2.1.9",
+    "changelog":  "Perbaikan sheet selector adaptif pada Master Inventory \u0026 Posture file (mencegah KeyError Worksheet Data does not exist pada sinkronisasi AndroHeld).",
+    "sha256":  "b801a5cca85840287be5690ce8d35c6521b4220bbe268ab5f6a85e423acb14c6"
 }

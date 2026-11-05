@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  62.05,
-    "version_code":  217,
+    "version_code":  218,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-05",
-    "version_name":  "v2.1.7",
-    "changelog":  "Perbaikan sinkronisasi data AndroHeld (penyelarasan parameter C# dan Python bridge), penambahan splitter dinamis untuk panel konsol log (drag to resize), serta scrollbar vertikal bawaan langsung pada konsol.",
-    "sha256":  "e2f80e6999b75be2c7327a1e1862c1bb3a9d77c8c03b762dd24ad06f025d8220"
+    "version_name":  "v2.1.8",
+    "changelog":  "Perbaikan akurasi pembacaan KPI chart WO AndroHeld (dukungan variasi label Excel dan kalkulasi mandiri berbasis baris item) serta perbaikan teks log konsol yang meregang dinamis 100% mengikuti tinggi jendela.",
+    "sha256":  "c0105e7839e889e016bd999282911f1dafd65ade63d669724f03c21e99838969"
 }

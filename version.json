@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.05,
-    "version_code":  215,
+    "size_mb":  62.06,
+    "version_code":  216,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-05",
-    "version_name":  "v2.1.5",
-    "changelog":  "Integrasi Auto-Updater langsung ke dalam KermenX.exe (100% Self-Contained, tanpa .bat, tanpa dependensi eksternal, kompatibel penuh dengan laptop kantor).",
-    "sha256":  "d558f0cdf810056dd84893e50c2e7bc3946c5b7357db55d65d15e915d2d67604"
+    "version_name":  "v2.1.6",
+    "changelog":  "Struktur subfolder resmi pada paket rilis (app/, engine/, data/), deteksi Python dua arah (app \u0026 root), serta penambahan tombol browse dan simpan konfigurasi engine di menu Diagnostik.",
+    "sha256":  "56033891e1362a638823336abd2e3f10d93c58627513ab1e4134c6f980d4f21b"
 }

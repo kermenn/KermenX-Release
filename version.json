@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.06,
-    "version_code":  224,
+    "size_mb":  62.07,
+    "version_code":  225,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-05",
-    "version_name":  "v2.2.4",
-    "changelog":  "Isolated Single Rescue Protocol (anti session-lock), batch size 5 optimal, dan initial GET 25s stabil.",
-    "sha256":  "434753959ff04359193c4918643067f9edd7749e4cc27be80bada38500f0095b"
+    "version_name":  "v2.2.5",
+    "changelog":  "Summary GIT ala WO Readiness, kolom Aging CKB di Excel \u0026 Email, format email bebas AI slop, dan teks tabel diperbesar.",
+    "sha256":  "d7e59159f4453a333eb77a41e3f9f28062aa1adf30ec5b34e8a078742cc85f25"
 }

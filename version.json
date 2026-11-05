@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  62.06,
-    "version_code":  221,
+    "version_code":  222,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-05",
-    "version_name":  "v2.2.1",
-    "changelog":  "Optimalisasi scraper CKB (batch size 15 + auto-fallback) agar seluruh resi terpetakan tanpa timeout, dan perbaikan format email standar WO Readiness (anti white-text).",
-    "sha256":  "0744b278b446845b35f3ad977996e870599d80f260a0bb61343965468b71c08b"
+    "version_name":  "v2.2.2",
+    "changelog":  "Optimalisasi scraper CKB dengan batch size 6 resi (bebas timeout dan anti session-lock).",
+    "sha256":  "66f45b2bb0a1d9573aafd54b3f7666627e412793fc304bfc340d2f60d253c0d1"
 }

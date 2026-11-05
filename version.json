@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  62.06,
-    "version_code":  223,
+    "version_code":  224,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-05",
-    "version_name":  "v2.2.3",
-    "changelog":  "Rescue Protocol anti-miss pelacakan CKB, jeda adaptif antar-batch, dan cool-down fallback recovery.",
-    "sha256":  "a7a5b02f02119eae57184d2d143bd8611258a2da032cc96cc3d63060ee63b137"
+    "version_name":  "v2.2.4",
+    "changelog":  "Isolated Single Rescue Protocol (anti session-lock), batch size 5 optimal, dan initial GET 25s stabil.",
+    "sha256":  "434753959ff04359193c4918643067f9edd7749e4cc27be80bada38500f0095b"
 }

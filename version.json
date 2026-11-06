@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  73.02,
-    "version_code":  226,
+    "version_code":  227,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-06",
-    "version_name":  "v2.2.6",
-    "changelog":  "Penambahan modul Katalog Spesifikasi Coupling Caterpillar (CAT): Single Search (spesifikasi teknis, dimensi Cutoff C \u0026 Drop D, O-ring seal, preview diagram potongan WebP, part equivalent) dan Multiple Search (tabel dinamis, paste dari Excel/clipboard, batch lookup SQLite, ekspor laporan Excel resmi).",
-    "sha256":  "d3f03ad6dd2da56f32ba5f25abf06542deb7d5d0533d17b40286ee852ac8e506"
+    "version_name":  "v2.2.7",
+    "changelog":  "Fix Bug #14: Perbaikan error parsing JSON number pada Batch Search coupling, peningkatan fleksibilitas algoritma pencarian (toleransi suffix SAP, leading zero, dan pencarian multi-keyword), serta perbaikan styling header tabel menjadi Dark Slate RyTuneX dengan teks putih kontras.",
+    "sha256":  "04fe710b76d067332716d08ab52efb81e527dc7780d80554f644eb56f9e9a7d7"
 }

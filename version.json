@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  73.02,
-    "version_code":  227,
+    "size_mb":  73.18,
+    "version_code":  228,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-06",
-    "version_name":  "v2.2.7",
-    "changelog":  "Fix Bug #14: Perbaikan error parsing JSON number pada Batch Search coupling, peningkatan fleksibilitas algoritma pencarian (toleransi suffix SAP, leading zero, dan pencarian multi-keyword), serta perbaikan styling header tabel menjadi Dark Slate RyTuneX dengan teks putih kontras.",
-    "sha256":  "04fe710b76d067332716d08ab52efb81e527dc7780d80554f644eb56f9e9a7d7"
+    "version_name":  "v2.2.8",
+    "changelog":  "Database Coupling Caterpillar V11.2 (PECP5030-11): Smart Code, Coupling Type, Connector Dash, Thread \u0026 Head Size, Diagram WebP, Ekspor Excel Lengkap \u0026 sinkronisasi AndroHeld",
+    "sha256":  "8b9f86797d0432b9f2fa4e2830dee3849c5ccdcca2a276e6d2bae80214e6f182"
 }

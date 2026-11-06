@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  62.07,
-    "version_code":  225,
+    "size_mb":  73.02,
+    "version_code":  226,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-05",
-    "version_name":  "v2.2.5",
-    "changelog":  "Summary GIT ala WO Readiness, kolom Aging CKB di Excel \u0026 Email, format email bebas AI slop, dan teks tabel diperbesar.",
-    "sha256":  "d7e59159f4453a333eb77a41e3f9f28062aa1adf30ec5b34e8a078742cc85f25"
+    "release_date":  "2026-11-06",
+    "version_name":  "v2.2.6",
+    "changelog":  "Penambahan modul Katalog Spesifikasi Coupling Caterpillar (CAT): Single Search (spesifikasi teknis, dimensi Cutoff C \u0026 Drop D, O-ring seal, preview diagram potongan WebP, part equivalent) dan Multiple Search (tabel dinamis, paste dari Excel/clipboard, batch lookup SQLite, ekspor laporan Excel resmi).",
+    "sha256":  "d3f03ad6dd2da56f32ba5f25abf06542deb7d5d0533d17b40286ee852ac8e506"
 }

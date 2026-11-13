@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  73.18,
-    "version_code":  228,
+    "size_mb":  73.26,
+    "version_code":  229,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-06",
-    "version_name":  "v2.2.8",
-    "changelog":  "Database Coupling Caterpillar V11.2 (PECP5030-11): Smart Code, Coupling Type, Connector Dash, Thread \u0026 Head Size, Diagram WebP, Ekspor Excel Lengkap \u0026 sinkronisasi AndroHeld",
-    "sha256":  "8b9f86797d0432b9f2fa4e2830dee3849c5ccdcca2a276e6d2bae80214e6f182"
+    "release_date":  "2026-11-13",
+    "version_name":  "v2.2.9",
+    "changelog":  "Pembaruan Analisis OTIF: Integrasi List Landed Cost untuk kalkulasi Value Issued \u0026 Unissued (USD), penambahan Tabel Finansial di Sheet Summary, kolom nilai di WO Analysis \u0026 RAW, dan auto-detection berkas Landed Cost.",
+    "sha256":  "bee80946be21b6509817f247f24d27577f3b504569ee4ebf5f577d3e31e96d62"
 }

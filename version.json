@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  73.26,
-    "version_code":  229,
+    "size_mb":  73.25,
+    "version_code":  230,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-13",
-    "version_name":  "v2.2.9",
-    "changelog":  "Pembaruan Analisis OTIF: Integrasi List Landed Cost untuk kalkulasi Value Issued \u0026 Unissued (USD), penambahan Tabel Finansial di Sheet Summary, kolom nilai di WO Analysis \u0026 RAW, dan auto-detection berkas Landed Cost.",
-    "sha256":  "bee80946be21b6509817f247f24d27577f3b504569ee4ebf5f577d3e31e96d62"
+    "release_date":  "2026-11-14",
+    "version_name":  "v2.2.10",
+    "changelog":  "Pembaruan Analisis OTIF: Layout 5-kolom bersih pada Tabel Status Absorption by Line Item, penyesuaian 4 KPI card baru, alokasi sekuensial MB51 untuk part duplikat, optimasi komputasi instan O(1), perampingan Tabel Kesiapan Work Order, dan sinkronisasi template email bersih bebas AI slop.",
+    "sha256":  "51c9178be7b2bd3d631580de55d0076988a2d6100c20d75b1eb5d8efe1daea05"
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  74.05,
-    "version_code":  232,
+    "size_mb":  74.06,
+    "version_code":  233,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-15",
-    "version_name":  "v2.3.1",
-    "changelog":  "Pemisahan Container Tahap 1 Penarikan SAP GUI (/NZVSD_PARTS_PROGRESS) dan Tahap 2 Scraping CKB \u0026 Fixed ETA Engine (Auto-Piped)",
-    "sha256":  "bf684cf7e009fe9a89602e6e7d522f68b03595427faafb34ce47af55b8ea24ea"
+    "version_name":  "v2.3.2",
+    "changelog":  "Integrasi lengkap 6 transaksi SAP GUI Backorder bertingkat, Pemisahan 2 Container Auto-Piped, Fast CKB Scraping dan Fixed ETA Engine",
+    "sha256":  "788e30505c803f3a897bb7dfdbf4fd970feb8e3191e0d7794512ce9f62ccd9a0"
 }

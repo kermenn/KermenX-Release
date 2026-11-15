@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  74.04,
-    "version_code":  231,
+    "size_mb":  74.05,
+    "version_code":  232,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-15",
-    "version_name":  "v2.3.0",
-    "changelog":  "Injeksi fitur baru Outstanding Backorder (BO) Report \u0026 Fixed ETA Engine: Ekstraksi otomatis SAP (/NZVSD dll), pelacakan ekspedisi CKB berkecepatan tinggi (\u003c4 detik via Windows Schannel curl), algoritma Hierarchical Fixed ETA bertingkat bebas status TBA, dan ekspor 3 sheet Excel standar enterprise.",
-    "sha256":  "197f90a114ac8621d0361a9fd8a1531f0ca792410f573f828a82287d69b93130"
+    "version_name":  "v2.3.1",
+    "changelog":  "Pemisahan Container Tahap 1 Penarikan SAP GUI (/NZVSD_PARTS_PROGRESS) dan Tahap 2 Scraping CKB \u0026 Fixed ETA Engine (Auto-Piped)",
+    "sha256":  "bf684cf7e009fe9a89602e6e7d522f68b03595427faafb34ce47af55b8ea24ea"
 }

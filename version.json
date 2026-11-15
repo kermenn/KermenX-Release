@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  74.06,
-    "version_code":  233,
+    "size_mb":  74.07,
+    "version_code":  234,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-15",
-    "version_name":  "v2.3.2",
-    "changelog":  "Integrasi lengkap 6 transaksi SAP GUI Backorder bertingkat, Pemisahan 2 Container Auto-Piped, Fast CKB Scraping dan Fixed ETA Engine",
-    "sha256":  "788e30505c803f3a897bb7dfdbf4fd970feb8e3191e0d7794512ce9f62ccd9a0"
+    "release_date":  "2026-11-16",
+    "version_name":  "v2.3.3",
+    "changelog":  "- Penyelarasan alur berantai 6 transaksi SAP GUI copy-paste clipboard sesuai macro myRobot\n- Pembersihan \u0026 filter dataset otomatis (ColumnsByHeader: buang rejected, blank SLoc, Y300, dan BO non-positif)\n- Zero-row guard: proteksi freeze jika list PO/Resi/Subcont kosong\n- Layout variants ALV (/SUB, /BO_REPORT, /ROB, /MNL)\n- Konsolidasi data 4-way otomatis (OTIL Date, PO Delivery, DA Resi, Subcont)",
+    "sha256":  "e3318dcaae3c6091e0d513de485dd2e6b2a1a4b1a00ab8910cd67edbaaf1cfa2"
 }

@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  74.07,
-    "version_code":  236,
+    "version_code":  237,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-16",
-    "version_name":  "v2.3.5",
-    "changelog":  "- Seluruh berkas ekspor transaksi SAP perantara kini menggunakan format OpenXML modern (.xlsx): rob_so.xlsx, rob_otil.xlsx, rob_po.xlsx, rob_sn.xlsx, rob_sub.xlsx\n- Fitur Silent Auto-Close jendela Excel pasca-ekspor SAP (mencegah popup Excel mengganggu layar dan kunci clipboard/file)\n- Multi-engine reader fallback (openpyxl / HTML tabular / CSV) untuk menjamin pembacaan data 100% mulus",
-    "sha256":  "8dda9531c881543dad7295b2e54a871c02048c16c5f849dd4c52c7b38a991bc0"
+    "release_date":  "2026-11-17",
+    "version_name":  "v2.3.6",
+    "changelog":  "- Perbaikan Bug #15: Mendaftarkan task \u0027git_monitoring\u0027 pada python_bridge_entry.py sehingga Analisis GIT \u0026 Tracking CKB berfungsi normal 100%\n- Auto-sync script engine ke folder runtime KermenX\\engine\n- Status tiket Bug #15 di Cloud Supabase diperbarui ke Resolved",
+    "sha256":  "9a5fe2f3138399fe939d2af21db94a364bb99fe5304e6744c5c61d03f6cba113"
 }

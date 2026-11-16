@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  74.07,
-    "version_code":  234,
+    "version_code":  235,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-16",
-    "version_name":  "v2.3.3",
-    "changelog":  "- Penyelarasan alur berantai 6 transaksi SAP GUI copy-paste clipboard sesuai macro myRobot\n- Pembersihan \u0026 filter dataset otomatis (ColumnsByHeader: buang rejected, blank SLoc, Y300, dan BO non-positif)\n- Zero-row guard: proteksi freeze jika list PO/Resi/Subcont kosong\n- Layout variants ALV (/SUB, /BO_REPORT, /ROB, /MNL)\n- Konsolidasi data 4-way otomatis (OTIL Date, PO Delivery, DA Resi, Subcont)",
-    "sha256":  "e3318dcaae3c6091e0d513de485dd2e6b2a1a4b1a00ab8910cd67edbaaf1cfa2"
+    "version_name":  "v2.3.4",
+    "changelog":  "- Perbaikan multi-selection SAP: copy-paste nomor SO dari /NVA05N ke /NZVSD_PARTS_PROGRESS 100% mulus\n- Auto-retry Windows clipboard 10x \u0026 format ganda CF_UNICODETEXT / CF_TEXT\n- Polling adaptif kontrol modal dialog wnd[1] anti-race-condition\n- Sanitasi nomor dokumen murni integer tanpa .0",
+    "sha256":  "7e2d2f418d0f50d378b5363995aa8efb32921e4eb8829edeb08a0ec24d05f9f7"
 }

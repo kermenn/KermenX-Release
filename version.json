@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  74.07,
-    "version_code":  235,
+    "version_code":  236,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-16",
-    "version_name":  "v2.3.4",
-    "changelog":  "- Perbaikan multi-selection SAP: copy-paste nomor SO dari /NVA05N ke /NZVSD_PARTS_PROGRESS 100% mulus\n- Auto-retry Windows clipboard 10x \u0026 format ganda CF_UNICODETEXT / CF_TEXT\n- Polling adaptif kontrol modal dialog wnd[1] anti-race-condition\n- Sanitasi nomor dokumen murni integer tanpa .0",
-    "sha256":  "7e2d2f418d0f50d378b5363995aa8efb32921e4eb8829edeb08a0ec24d05f9f7"
+    "version_name":  "v2.3.5",
+    "changelog":  "- Seluruh berkas ekspor transaksi SAP perantara kini menggunakan format OpenXML modern (.xlsx): rob_so.xlsx, rob_otil.xlsx, rob_po.xlsx, rob_sn.xlsx, rob_sub.xlsx\n- Fitur Silent Auto-Close jendela Excel pasca-ekspor SAP (mencegah popup Excel mengganggu layar dan kunci clipboard/file)\n- Multi-engine reader fallback (openpyxl / HTML tabular / CSV) untuk menjamin pembacaan data 100% mulus",
+    "sha256":  "8dda9531c881543dad7295b2e54a871c02048c16c5f849dd4c52c7b38a991bc0"
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  74.07,
-    "version_code":  237,
+    "size_mb":  74.1,
+    "version_code":  238,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-17",
-    "version_name":  "v2.3.6",
-    "changelog":  "- Perbaikan Bug #15: Mendaftarkan task \u0027git_monitoring\u0027 pada python_bridge_entry.py sehingga Analisis GIT \u0026 Tracking CKB berfungsi normal 100%\n- Auto-sync script engine ke folder runtime KermenX\\engine\n- Status tiket Bug #15 di Cloud Supabase diperbarui ke Resolved",
-    "sha256":  "9a5fe2f3138399fe939d2af21db94a364bb99fe5304e6744c5c61d03f6cba113"
+    "version_name":  "v2.3.7",
+    "changelog":  "- Fitur Baru: Modul Live Stock Readiness (/NZMIM_RPAVAIL) pada Macro SAP\n- Input ringkas Part Number \u0026 Qty Needed dengan Single Target Plant (default 1346 / RTA Site)\n- Patokan utama ketersediaan SLOC DMDV \u0026 Onhand ATP pada cabang target\n- Kaskade alokasi bertingkat 8-tingkat (Opsi B: 5 HUB Utama, 1H*, 1G*, SNG Singapore, 1B*, 1F*, 1A*, dan cabang lain)\n- Filter mutlak skip untuk plant 1C50, 1A11, awalan 150*, dan awalan 2*\n- Deteksi otomatis Deletion Indicator (LVORM Z1/Z2) \u0026 auto popup Part Pengganti (btn[18] -\u003e SUCC_PART)\n- Ekspor laporan Excel berstandar KermenX Enterprise dengan badge warna status ketersediaan",
+    "sha256":  "bc7909b87d1fb26284e51ac8923a3e76783fd0d605f8b4cb969b45179e9acaca"
 }

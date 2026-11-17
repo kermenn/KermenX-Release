@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  74.1,
-    "version_code":  238,
+    "version_code":  239,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-17",
-    "version_name":  "v2.3.7",
-    "changelog":  "- Fitur Baru: Modul Live Stock Readiness (/NZMIM_RPAVAIL) pada Macro SAP\n- Input ringkas Part Number \u0026 Qty Needed dengan Single Target Plant (default 1346 / RTA Site)\n- Patokan utama ketersediaan SLOC DMDV \u0026 Onhand ATP pada cabang target\n- Kaskade alokasi bertingkat 8-tingkat (Opsi B: 5 HUB Utama, 1H*, 1G*, SNG Singapore, 1B*, 1F*, 1A*, dan cabang lain)\n- Filter mutlak skip untuk plant 1C50, 1A11, awalan 150*, dan awalan 2*\n- Deteksi otomatis Deletion Indicator (LVORM Z1/Z2) \u0026 auto popup Part Pengganti (btn[18] -\u003e SUCC_PART)\n- Ekspor laporan Excel berstandar KermenX Enterprise dengan badge warna status ketersediaan",
-    "sha256":  "0b9a8407c54396f100c11caf2e7f9a1cf18e4571bcacec81e8dd3c3dac514e75"
+    "version_name":  "v2.3.8",
+    "changelog":  "- Sinkronisasi otomatis versi loading screen (SplashScreen) dengan versi aplikasi utama\n- Pembaruan rilis resmi v2.3.8 (Live Stock Readiness /NZMIM_RPAVAIL \u0026 dropdown menu fix)\n- Peningkatan stabilitas auto-updater dan autentikasi digital code signing",
+    "sha256":  "0329de32984c46ec9b4f4a712bd52f162b34e13da3427cbe053c4d040d11ae7d"
 }

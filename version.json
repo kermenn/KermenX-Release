@@ -6,5 +6,5 @@
     "release_date":  "2026-11-17",
     "version_name":  "v2.3.7",
     "changelog":  "- Fitur Baru: Modul Live Stock Readiness (/NZMIM_RPAVAIL) pada Macro SAP\n- Input ringkas Part Number \u0026 Qty Needed dengan Single Target Plant (default 1346 / RTA Site)\n- Patokan utama ketersediaan SLOC DMDV \u0026 Onhand ATP pada cabang target\n- Kaskade alokasi bertingkat 8-tingkat (Opsi B: 5 HUB Utama, 1H*, 1G*, SNG Singapore, 1B*, 1F*, 1A*, dan cabang lain)\n- Filter mutlak skip untuk plant 1C50, 1A11, awalan 150*, dan awalan 2*\n- Deteksi otomatis Deletion Indicator (LVORM Z1/Z2) \u0026 auto popup Part Pengganti (btn[18] -\u003e SUCC_PART)\n- Ekspor laporan Excel berstandar KermenX Enterprise dengan badge warna status ketersediaan",
-    "sha256":  "bc7909b87d1fb26284e51ac8923a3e76783fd0d605f8b4cb969b45179e9acaca"
+    "sha256":  "fcf348714d1b9f0233cb1e7f83236549fe45a5b6cb7460da880cc5c3de6aa1f2"
 }

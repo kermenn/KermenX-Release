@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  74.1,
+    "size_mb":  74.11,
     "version_code":  239,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-17",
     "version_name":  "v2.3.8",
-    "changelog":  "- Sinkronisasi otomatis versi loading screen (SplashScreen) dengan versi aplikasi utama\n- Pembaruan rilis resmi v2.3.8 (Live Stock Readiness /NZMIM_RPAVAIL \u0026 dropdown menu fix)\n- Peningkatan stabilitas auto-updater dan autentikasi digital code signing",
-    "sha256":  "0329de32984c46ec9b4f4a712bd52f162b34e13da3427cbe053c4d040d11ae7d"
+    "changelog":  "Perbaikan Bug #16: Pembaruan nama plant 1346 (Rantau Retail), font hitam tabel, pemindahan tombol eksekusi ke toolbar input, dan penyempurnaan istilah kolom/status",
+    "sha256":  "54805fd139e5ce04f4b94364f71911e367f8aab834899166e45c1b9aaabbc269"
 }

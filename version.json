@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  74.11,
-    "version_code":  240,
+    "size_mb":  74.12,
+    "version_code":  241,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-17",
-    "version_name":  "v2.3.9",
-    "changelog":  "Pembaruan rilis v2.3.9: Sinkronisasi versi aplikasi, perbaikan nama plant 1346 (Rantau Retail), font tabel hitam, tombol eksekusi modular, dan standarisasi istilah logistik.",
-    "sha256":  "0824757e9fa3305b3437513cab0ef183e3dee3094f9699992ed6ae9c60c16964"
+    "release_date":  "2026-11-18",
+    "version_name":  "v2.4.0",
+    "changelog":  "Pembaruan rilis v2.4.0: Penambahan modul AndroHeld Device Management \u0026 Remote Lock (MDM), tampilan tabel Fluent Dark modern (#18181B) dengan status pill badges, dan pembaruan lisensi perangkat.",
+    "sha256":  "40afdbbd1f10382b53e8220a9fd8fac760703d8990ac45f0531c8d966ee295ec"
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  74.12,
-    "version_code":  241,
+    "size_mb":  74.84,
+    "version_code":  250,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-18",
-    "version_name":  "v2.4.0",
-    "changelog":  "Pembaruan rilis v2.4.0: Penambahan modul AndroHeld Device Management \u0026 Remote Lock (MDM), tampilan tabel Fluent Dark modern (#18181B) dengan status pill badges, dan pembaruan lisensi perangkat.",
-    "sha256":  "40afdbbd1f10382b53e8220a9fd8fac760703d8990ac45f0531c8d966ee295ec"
+    "release_date":  "2026-11-19",
+    "version_name":  "v2.5.0",
+    "changelog":  "Pembaruan rilis v2.5.0: Penambahan Part Reference CAT terpadu mencakup One Safe Source (Hardware O-Ring, Baut, Mur, Ring, Sekrup ~4.258 records, mating hardware matching, dan part equivalent) serta HIS CAT (Hose Assembly 2.0 Consist 4.597 records, Cut Length no-skive \u0026 reusable, Bulk Hose, Fitting End 1 \u0026 2 dengan diagram WebP dan integrasi 1-klik ke Ref Coupling).",
+    "sha256":  "0328c6523819e5e75e25198af5bdce219da2ca8544af9f05204f6724f8ed2db3"
 }

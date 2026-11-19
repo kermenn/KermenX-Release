@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  74.84,
-    "version_code":  251,
+    "version_code":  252,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-19",
-    "version_name":  "v2.5.1",
-    "changelog":  "Fix Live Stock Readiness: perbaikan konversi desimal SAP CAT Depot (5,000 -\u003e 5 unit), SNG di Tingkat 4, dan depot luar DUB/GRM di Tingkat 9 Terakhir",
-    "sha256":  "071e611b2430ec5d29ff454cfca7257a8b2020ffa372a9f9cc9072f7cd4b8ce7"
+    "version_name":  "v2.5.2",
+    "changelog":  "Fix Remarks Stock format: perbaikan teks alokasi plant bersih (1S76 CKN, SNG tanpa duplikasi) dan penanganan kuantitas live SAP",
+    "sha256":  "57f5e28677fe39c61bea5266746210e51964d34c8f69dc2fbbcef1b5f4ff9766"
 }

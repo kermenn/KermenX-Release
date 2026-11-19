@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  74.84,
-    "version_code":  250,
+    "version_code":  251,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-19",
-    "version_name":  "v2.5.0",
-    "changelog":  "Pembaruan rilis v2.5.0: Penambahan Part Reference CAT terpadu mencakup One Safe Source (Hardware O-Ring, Baut, Mur, Ring, Sekrup ~4.258 records, mating hardware matching, dan part equivalent) serta HIS CAT (Hose Assembly 2.0 Consist 4.597 records, Cut Length no-skive \u0026 reusable, Bulk Hose, Fitting End 1 \u0026 2 dengan diagram WebP dan integrasi 1-klik ke Ref Coupling).",
-    "sha256":  "0328c6523819e5e75e25198af5bdce219da2ca8544af9f05204f6724f8ed2db3"
+    "version_name":  "v2.5.1",
+    "changelog":  "Fix Live Stock Readiness: perbaikan konversi desimal SAP CAT Depot (5,000 -\u003e 5 unit), SNG di Tingkat 4, dan depot luar DUB/GRM di Tingkat 9 Terakhir",
+    "sha256":  "071e611b2430ec5d29ff454cfca7257a8b2020ffa372a9f9cc9072f7cd4b8ce7"
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  74.84,
-    "version_code":  252,
+    "size_mb":  74.88,
+    "version_code":  260,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-19",
-    "version_name":  "v2.5.2",
-    "changelog":  "Fix Remarks Stock format: perbaikan teks alokasi plant bersih (1S76 CKN, SNG tanpa duplikasi) dan penanganan kuantitas live SAP",
-    "sha256":  "57f5e28677fe39c61bea5266746210e51964d34c8f69dc2fbbcef1b5f4ff9766"
+    "release_date":  "2026-11-22",
+    "version_name":  "v2.6.0",
+    "changelog":  "Fitur Baru: CV Builder ATS Engine (100% offline lokal, prefilled referensi asli, editable form, dan output PDF ATS 1:1 identik)",
+    "sha256":  "2bbb10a79fd9254ee4d1dc1b8289f9be91eca079256a4766444ca9019d51a5ce"
 }

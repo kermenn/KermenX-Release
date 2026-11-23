@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  74.88,
-    "version_code":  260,
+    "version_code":  261,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-22",
-    "version_name":  "v2.6.0",
-    "changelog":  "Fitur Baru: CV Builder ATS Engine (100% offline lokal, prefilled referensi asli, editable form, dan output PDF ATS 1:1 identik)",
-    "sha256":  "2bbb10a79fd9254ee4d1dc1b8289f9be91eca079256a4766444ca9019d51a5ce"
+    "release_date":  "2026-11-24",
+    "version_name":  "v2.6.1",
+    "changelog":  "Pembaruan CV ATS: pengelompokan otomatis peran ganda di perusahaan yang sama, penyempurnaan tipografi \u0026 warna abu-abu 1:1 identik, serta perbaikan error task onesafe \u0026 his_cat",
+    "sha256":  "cf23f640b4ece753f1505fd7c232e8a2bbac44a3eb9c019b1bf3adff9a9fa8a8"
 }

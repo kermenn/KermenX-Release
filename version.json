@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  74.88,
-    "version_code":  261,
+    "version_code":  262,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-24",
-    "version_name":  "v2.6.1",
-    "changelog":  "Pembaruan CV ATS: pengelompokan otomatis peran ganda di perusahaan yang sama, penyempurnaan tipografi \u0026 warna abu-abu 1:1 identik, serta perbaikan error task onesafe \u0026 his_cat",
-    "sha256":  "cf23f640b4ece753f1505fd7c232e8a2bbac44a3eb9c019b1bf3adff9a9fa8a8"
+    "version_name":  "v2.6.2",
+    "changelog":  "Pembaruan CV ATS: standardisasi margin halaman 0.5 inci (36pt), optimalisasi ukuran font 9.5pt \u0026 line-height 1.34 agar lebih nyaman dibaca dan ramah ATS",
+    "sha256":  "74710738148a8cd516578dc8972f8c5ea52ff9a7b5cc96fbdb466c0403f1d426"
 }

@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  74.88,
-    "version_code":  262,
+    "version_code":  263,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-24",
-    "version_name":  "v2.6.2",
-    "changelog":  "Pembaruan CV ATS: standardisasi margin halaman 0.5 inci (36pt), optimalisasi ukuran font 9.5pt \u0026 line-height 1.34 agar lebih nyaman dibaca dan ramah ATS",
-    "sha256":  "74710738148a8cd516578dc8972f8c5ea52ff9a7b5cc96fbdb466c0403f1d426"
+    "version_name":  "v2.6.3",
+    "changelog":  "CV Builder ATS: aksi Move Up urutan baris \u0026 hapus dengan ikon vektor tajam, pembersihan teks UI ke English profesional to-the-point, serta dukungan bullet points multi-baris untuk kategori skill \u0026 prestasi",
+    "sha256":  "43e51f7176f296740944d6eb718f4562f9906b99e142baadc05ed11e22f6e98d"
 }

@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  77.27,
-    "version_code":  265,
+    "size_mb":  77.28,
+    "version_code":  266,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-26",
-    "version_name":  "v2.6.5",
-    "changelog":  "Fix XAML StaticResource style pada tab Where-Used (Part Reference)",
-    "sha256":  "78e2979ba4206ff9b1e862c13fa60aaa9f1072ae3999169fff820fe7cb52cd37"
+    "version_name":  "v2.6.6",
+    "changelog":  "Sinkronisasi versi otomatis v2.6.6 di Splash \u0026 UI, header tabel gelap \u0026 segmented pill modern pada Where-Used, serta Emergency Auto-Updater saat startup",
+    "sha256":  "ff8909c43749a578dea02d4ac46f828a48c300a2ec20c8b9f93be5ab351aed08"
 }

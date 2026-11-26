@@ -1,10 +1,10 @@
 ﻿{
     "size_mb":  77.27,
-    "version_code":  264,
+    "version_code":  265,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-26",
-    "version_name":  "v2.6.4",
-    "changelog":  "Part Reference: tambah tab Where-Used (Single Lookup, Batch Paste, Excel Compare) dengan database terenkripsi SQLCipher terpisah",
-    "sha256":  "1a9566db9c926dd7ddb6a9d5285bb693917ca8511088b0fe2adcad8f2837a594"
+    "version_name":  "v2.6.5",
+    "changelog":  "Fix XAML StaticResource style pada tab Where-Used (Part Reference)",
+    "sha256":  "78e2979ba4206ff9b1e862c13fa60aaa9f1072ae3999169fff820fe7cb52cd37"
 }

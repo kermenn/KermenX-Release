@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  74.88,
-    "version_code":  263,
+    "size_mb":  77.27,
+    "version_code":  264,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
-    "release_date":  "2026-11-24",
-    "version_name":  "v2.6.3",
-    "changelog":  "CV Builder ATS: aksi Move Up urutan baris \u0026 hapus dengan ikon vektor tajam, pembersihan teks UI ke English profesional to-the-point, serta dukungan bullet points multi-baris untuk kategori skill \u0026 prestasi",
-    "sha256":  "43e51f7176f296740944d6eb718f4562f9906b99e142baadc05ed11e22f6e98d"
+    "release_date":  "2026-11-26",
+    "version_name":  "v2.6.4",
+    "changelog":  "Part Reference: tambah tab Where-Used (Single Lookup, Batch Paste, Excel Compare) dengan database terenkripsi SQLCipher terpisah",
+    "sha256":  "1a9566db9c926dd7ddb6a9d5285bb693917ca8511088b0fe2adcad8f2837a594"
 }

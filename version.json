@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  77.28,
-    "version_code":  268,
+    "size_mb":  77.29,
+    "version_code":  269,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-26",
-    "version_name":  "v2.6.8",
-    "changelog":  "Auto-discovery Python Core lintas drive/OneDrive serta tombol Unduh \u0026 Pasang Python Engine otomatis (~58 MB) dari GitHub Releases",
-    "sha256":  "d80f66ff9adb3b54656c6368f8617b4fa951197cd200d71f03d23028f7abc440"
+    "version_name":  "v2.6.9",
+    "changelog":  "Optimasi Batch Where-Used 29.000+ PN anti-freeze (~3 detik, 1x bind tabel, preview 2.000 baris + full export Excel, dan proteksi log konsol)",
+    "sha256":  "e4d71b52d13d58b11ce6a6922503745ab46e8db1f7170aae2c05fb3205552f9d"
 }

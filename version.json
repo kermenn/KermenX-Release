@@ -1,10 +1,10 @@
 ﻿{
-    "size_mb":  77.27,
-    "version_code":  267,
+    "size_mb":  77.28,
+    "version_code":  268,
     "download_url":  "https://raw.githubusercontent.com/kermenn/KermenX-Release/main/KermenX-Update.zip",
     "min_supported_version":  "v2.0.0",
     "release_date":  "2026-11-26",
-    "version_name":  "v2.6.7",
-    "changelog":  "Smart Python Auto-Discovery lintas folder instalasi KermenX (C:/D:) dan proteksi alias Microsoft Store WindowsApps",
-    "sha256":  "97133d9b7b0c65b82f79999381d699ae497e5073c9202b29d2d29f76042ae858"
+    "version_name":  "v2.6.8",
+    "changelog":  "Auto-discovery Python Core lintas drive/OneDrive serta tombol Unduh \u0026 Pasang Python Engine otomatis (~58 MB) dari GitHub Releases",
+    "sha256":  "d80f66ff9adb3b54656c6368f8617b4fa951197cd200d71f03d23028f7abc440"
 }
